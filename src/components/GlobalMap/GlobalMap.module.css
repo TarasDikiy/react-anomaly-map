@@ -1,0 +1,24 @@
+.GlobalMap {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow-x: hidden;
+}
+
+.PerspectiveContainer {
+    all: inherit;
+    transform: perspective(3447px) rotateX(60deg);
+    padding-bottom: 30px;
+    margin-top: -30%;
+}
+
+.mapImage {
+    max-width: 50%;
+    border-radius: 10px;
+    box-shadow: 0px 10px 9px 5px #464138;
+}
+
+figure {
+    perspective: 3000px;
+}
