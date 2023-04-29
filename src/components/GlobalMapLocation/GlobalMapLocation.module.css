@@ -1,13 +1,8 @@
 .GlobalMapLocation {
     position: absolute;
-    left: 50%;
-    top: 0%;
-    width: 5%;
-    height: 5%;
 }
 
 canvas {
     width: 100%;
     height: 100%;
-    border: solid;
 }
