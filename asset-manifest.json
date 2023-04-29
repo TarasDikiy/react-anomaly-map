@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-anomaly-map/static/css/main.aafa33fc.css",
-    "main.js": "/react-anomaly-map/static/js/main.2bfc5b01.js",
+    "main.css": "/react-anomaly-map/static/css/main.19efa3b5.css",
+    "main.js": "/react-anomaly-map/static/js/main.fbcbd6e4.js",
     "static/media/global_map.png": "/react-anomaly-map/static/media/global_map.66f820a7517a1702d1f6.png",
     "index.html": "/react-anomaly-map/index.html",
-    "main.aafa33fc.css.map": "/react-anomaly-map/static/css/main.aafa33fc.css.map",
-    "main.2bfc5b01.js.map": "/react-anomaly-map/static/js/main.2bfc5b01.js.map"
+    "main.19efa3b5.css.map": "/react-anomaly-map/static/css/main.19efa3b5.css.map",
+    "main.fbcbd6e4.js.map": "/react-anomaly-map/static/js/main.fbcbd6e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.aafa33fc.css",
-    "static/js/main.2bfc5b01.js"
+    "static/css/main.19efa3b5.css",
+    "static/js/main.fbcbd6e4.js"
   ]
 }
